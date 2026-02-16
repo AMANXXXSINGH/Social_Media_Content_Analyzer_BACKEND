@@ -108,7 +108,7 @@ Rules:
         headers: {
           Authorization: `Bearer ${process.env.OPENROUTER_API_KEY}`,
           "Content-Type": "application/json",
-          "HTTP-Referer": "https://your-frontend.vercel.app",
+          "HTTP-Referer": "https://social-media-content-analyzer-5rme5a76u-amanxxxsinghs-projects.vercel.app",
           "X-Title": "Social Media Analyzer"
         }
       }
